@@ -23,3 +23,16 @@
 .content__description {
     margin-top: 10px;
 }
+
+.button > a{
+    padding: 1rem;
+    background-color: rgb(28, 28, 87);
+    border-radius: 2rem;
+    font-size: .8rem;
+}
+
+.button {
+    margin-bottom: 20px;
+    display: flex;
+    margin-top: 250px;
+}

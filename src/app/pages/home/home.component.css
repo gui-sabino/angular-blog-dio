@@ -5,3 +5,17 @@
     justify-content: center;
 }
 
+.botao > a{
+    padding: 1rem;
+    background-color: rgb(28, 28, 87);
+    margin-left: 20px;
+    border-radius: 2rem;
+    font-size: .8rem;
+}
+
+.botao {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
